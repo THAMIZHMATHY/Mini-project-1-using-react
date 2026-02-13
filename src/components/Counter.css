@@ -1,0 +1,46 @@
+.counter {
+  background: linear-gradient(145deg, #1a1a2e, #252550);
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 300px;
+  margin: 50px auto;
+  border: 1px solid rgb(255, 255, 255, 0.1);
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+}
+.counter h2 {
+  color: #3fa9f5;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+.count-display {
+  font-size: 5rem;
+  font-weight: bold;
+  color: #ffffff;
+  margin: 20px 0;
+}
+.counter button {
+  padding: 12px 20px;
+  font-size: 1rem;
+}
+.counter button:hover {
+  transform: translateY(-3px);
+}
+.btn-increase {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+  margin: 10px;
+}
+.btn-decrease {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+  margin: 10px;
+}
+.btn-reset {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+  margin: 10px;
+}
+.msg {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #aaa;
+  min-height: 30px;
+}
