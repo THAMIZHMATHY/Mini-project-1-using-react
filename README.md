@@ -25,5 +25,4 @@ CSS3
 The main goal of this project is to understand how state works in React using the useState hook. It helps beginners learn how React re-renders components when state changes and how to handle user interactions efficiently.
 
 🌐 Live Demo
-
-[(https://mini-project-1-using-react.netlify.app/)]
+(https://mini-project-1-using-react-asy3.vercel.app/)
